@@ -44,10 +44,10 @@ print(sq.get_picture())
 rect.set_height(8)
 rect.set_width(16)
 print(rect.get_amount_inside(sq))
-
+```
 
 That code should return:
-
+```text
 50
 26
 Rectangle(width=10, height=3)
